@@ -1,8 +1,8 @@
-replicaCount: 5
+replicaCount: 1
 
 flaskApp:
   image: crazyguy888/catexer-actions
-  tag: 0.0.19
+  tag: latest
   port: 5000
   flaskEnv: development
   mysqlHost: mysql-service
