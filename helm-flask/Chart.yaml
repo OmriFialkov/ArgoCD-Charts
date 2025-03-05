@@ -2,7 +2,7 @@ apiVersion: v2
 name: helm-flask
 description: A k8s Helm chart for Flask application
 type: application
-version: 0.0.23
+version: 0.0.24
 appVersion: "1.16.0"
 # this file was modified by a ci to update helm version tagging
 # this file was modified by a ci to update helm version tagging
